@@ -1,0 +1,18 @@
+body {
+    font-family: Helvetica;
+    background-color: powderblue;
+}
+h1 {
+    font-family:Helvetica;
+    color: blue;
+}
+h2 {
+    font-family: Helvetica;
+    color: green;
+}
+table, th, td {
+    font-family: Helvetica;
+    background-color: #A0FF33; 
+    border:2px solid black;
+}
+

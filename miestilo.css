@@ -1,0 +1,47 @@
+tarjetapresentacion {
+    font-family :Helvetica;
+    background-color: #F030CF;
+    width: 300px;
+    padding: 10pt;
+    border :1px solid #352F2B;
+    margin: 5px;
+    text-align: left;
+
+}
+
+nombre {
+
+    color: #3C41FF;
+    font-size:100%;
+    display: block;
+    margin-bottom:1%
+		   
+}
+
+hobby {
+
+    color: #6C41DF;
+    font-size:100%;
+    display: block;
+    margin-bottom: 1%;
+    
+}
+
+telefono {
+    color: #5FAB00;
+    font-size:100%;
+    display: block;
+    margin-bottom: 1%;
+}
+correo {
+    color: #DD29;
+    font-size:100%;
+    display:block;
+    margin-bottom: 1%;
+}
+mascota{
+    color: #FF5600;
+    fontsize: 100%;
+    display:block;
+    margin-bottom: 1%;
+}
